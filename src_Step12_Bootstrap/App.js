@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>인덱스 페이지 입니다.</h1>
+      <h1>인덱스 페이지 입니다</h1>
       <Button variant='primary' className='me-1'>버튼</Button>
       <Button variant='success' className='me-1'>버튼</Button>
       <Button variant='danger'>버튼</Button>
